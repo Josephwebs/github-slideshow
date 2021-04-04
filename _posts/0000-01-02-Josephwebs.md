@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+las camas son geniales
 Utiliza la flecha hacia la izquierda para volver!
